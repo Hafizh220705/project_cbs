@@ -147,7 +147,7 @@ void daftar_buku_misteri(){
         cout << "5. Pembunuhan Zodiak Tokyo\t" << harga_5 << endl;
         cout << "===============================================" << endl;
         cout << "0. Kembali ke halaman utama" << endl;
-        cout << "Pilih buku: "
+        cout << "Pilih buku: ";
         cin >> input_user;
         switch (input_user)
         {
